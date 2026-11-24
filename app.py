@@ -71,7 +71,7 @@ ae_order = sorted(df.ae_group.unique())
 with tab1:
     st.subheader("ROR lower 95% confidence bound by regimen and irAE")
     st.caption("Colour = lower bound of the ROR 95% CI (log scale). ★ = signal by all three methods. "
-               "Grey = fewer cases than the minimum.")
+               "Blank = fewer cases than the minimum.")
     piv = df.pivot(index="regimen", columns="ae_group", values="ror_lo").reindex(index=regimen_order, columns=ae_order)
     a_piv = df.pivot(index="regimen", columns="ae_group", values="a").reindex(index=regimen_order, columns=ae_order)
     ror_piv = df.pivot(index="regimen", columns="ae_group", values="ror").reindex(index=regimen_order, columns=ae_order)
