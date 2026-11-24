@@ -1,0 +1,23 @@
+{
+  "cleaning_log": {
+    "DEMO rows loaded (report versions)": 1617444,
+    "Distinct caseids": 1469305,
+    "Withdrawn caseids in DELETE file": 21483,
+    "Cases after dedup + deletions": 1465808,
+    "DRUG rows": 7801018,
+    "REAC rows": 5657830,
+    "Cases with a suspect ICI": 34642,
+    "Cases with any irAE group": 24790
+  },
+  "regimen_counts": {
+    "pembrolizumab": 16088,
+    "durvalumab": 4912,
+    "nivolumab": 4872,
+    "atezolizumab": 4424,
+    "nivolumab + ipilimumab": 2845,
+    "cemiplimab": 626,
+    "other ICI combination": 383,
+    "avelumab": 306,
+    "ipilimumab": 186
+  }
+}

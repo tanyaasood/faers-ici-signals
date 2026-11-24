@@ -1,0 +1,73 @@
+regimen,ae_group,a,b,c,d,prr,ror,ror_lo,ror_hi,chi2,ic,ic025,sig_prr,sig_ror,sig_ic,signal,analysis
+other ICI combination,Colitis,66,317,5326,1460099,47.414,57.078,43.722,74.512,2927.105,5.123,4.714,True,True,True,True,main
+ipilimumab,Colitis,21,165,5371,1460251,30.809,34.603,21.956,54.534,576.093,4.182,3.451,True,True,True,True,main
+nivolumab + ipilimumab,Colitis,249,2596,5143,1457820,24.896,27.188,23.805,31.052,5444.643,4.508,4.299,True,True,True,True,main
+pembrolizumab,Colitis,614,15474,4778,1444942,11.58,12.0,11.016,13.071,5269.14,3.364,3.231,True,True,True,True,main
+nivolumab,Colitis,198,4674,5194,1455742,11.431,11.873,10.272,13.723,1812.065,3.43,3.195,True,True,True,True,main
+durvalumab,Colitis,184,4728,5208,1455688,10.508,10.878,9.365,12.635,1525.322,3.313,3.069,True,True,True,True,main
+atezolizumab,Colitis,133,4291,5259,1456125,8.354,8.582,7.207,10.22,835.668,2.993,2.706,True,True,True,True,main
+cemiplimab,Colitis,19,607,5373,1459809,8.277,8.504,5.383,13.437,114.399,2.799,2.028,True,True,True,True,main
+avelumab,Colitis,4,302,5388,1460114,3.555,3.589,1.338,9.629,5.028,1.469,-0.296,True,True,False,False,main
+other ICI combination,Hepatitis,32,351,2860,1462565,42.81,46.622,32.404,67.078,1253.666,4.694,4.104,True,True,True,True,main
+nivolumab + ipilimumab,Hepatitis,135,2710,2757,1460206,25.18,26.384,22.108,31.488,2971.088,4.47,4.185,True,True,True,True,main
+nivolumab,Hepatitis,133,4739,2759,1458177,14.455,14.833,12.435,17.693,1579.399,3.723,3.436,True,True,True,True,main
+atezolizumab,Hepatitis,93,4331,2799,1458585,10.976,11.19,9.082,13.787,808.03,3.341,2.997,True,True,True,True,main
+ipilimumab,Hepatitis,4,182,2888,1462734,10.914,11.132,4.131,29.999,26.804,2.376,0.611,True,True,True,True,main
+pembrolizumab,Hepatitis,301,15787,2591,1447129,10.468,10.649,9.441,12.011,2305.435,3.225,3.035,True,True,True,True,main
+avelumab,Hepatitis,4,302,2888,1462614,6.633,6.708,2.5,18.001,13.925,2.028,0.262,True,True,True,True,main
+durvalumab,Hepatitis,57,4855,2835,1458061,5.98,6.038,4.639,7.86,227.295,2.496,2.056,True,True,True,True,main
+cemiplimab,Hepatitis,7,619,2885,1462297,5.679,5.732,2.719,12.085,22.497,2.112,0.81,True,True,True,True,main
+other ICI combination,Hypophysitis,18,365,303,1465122,227.298,238.457,146.606,387.856,3618.137,4.986,4.193,True,True,True,True,main
+ipilimumab,Hypophysitis,5,181,316,1465306,124.679,128.095,52.321,313.611,488.356,3.346,1.784,True,True,True,True,main
+nivolumab + ipilimumab,Hypophysitis,57,2788,264,1462699,111.025,113.275,84.872,151.182,5022.204,5.678,5.238,True,True,True,True,main
+pembrolizumab,Hypophysitis,88,16000,233,1449487,34.034,34.215,26.761,43.746,2024.311,4.459,4.106,True,True,True,True,main
+avelumab,Hypophysitis,2,304,319,1465183,30.026,30.217,7.49,121.903,30.656,2.14,-0.453,False,False,False,False,main
+durvalumab,Hypophysitis,28,4884,293,1460603,28.422,28.579,19.374,42.156,651.439,4.177,3.546,True,True,True,True,main
+nivolumab,Hypophysitis,26,4846,295,1460641,26.429,26.565,17.772,39.708,561.516,4.08,3.424,True,True,True,True,main
+atezolizumab,Hypophysitis,17,4407,304,1461080,18.472,18.54,11.365,30.244,249.789,3.575,2.758,True,True,True,True,main
+cemiplimab,Hypophysitis,0,626,321,1464861,0.0,0.0,0.0,,0.0,-0.35,-10.673,False,False,False,False,main
+other ICI combination,Myocarditis,25,358,1894,1463531,50.504,53.961,35.885,81.143,1150.422,4.67,4.001,True,True,True,True,main
+nivolumab + ipilimumab,Myocarditis,101,2744,1818,1461145,28.568,29.583,24.127,36.271,2522.682,4.587,4.257,True,True,True,True,main
+pembrolizumab,Myocarditis,456,15632,1463,1448257,28.087,28.877,25.965,32.116,9072.303,4.404,4.249,True,True,True,True,main
+nivolumab,Myocarditis,117,4755,1802,1459134,19.47,19.924,16.49,24.073,1910.097,4.094,3.788,True,True,True,True,main
+durvalumab,Myocarditis,103,4809,1816,1459080,16.869,17.209,14.082,21.03,1441.916,3.9,3.574,True,True,True,True,main
+cemiplimab,Myocarditis,13,613,1906,1463276,15.964,16.281,9.382,28.253,166.764,3.355,2.416,True,True,True,True,main
+avelumab,Myocarditis,5,301,1914,1463588,12.511,12.702,5.243,30.775,42.013,2.61,1.048,True,True,True,True,main
+atezolizumab,Myocarditis,68,4356,1851,1459533,12.135,12.309,9.646,15.708,660.32,3.445,3.042,True,True,True,True,main
+ipilimumab,Myocarditis,1,185,1918,1463704,4.108,4.125,0.578,29.456,0.271,1.013,-2.771,False,False,False,False,main
+other ICI combination,Neuromuscular,21,362,2696,1462729,29.803,31.474,20.239,48.946,552.844,4.151,3.42,True,True,True,True,main
+avelumab,Neuromuscular,12,294,2705,1462797,21.246,22.072,12.377,39.362,211.167,3.55,2.571,True,True,True,True,main
+nivolumab + ipilimumab,Neuromuscular,72,2773,2645,1460318,13.998,14.335,11.31,18.17,834.87,3.65,3.26,True,True,True,True,main
+cemiplimab,Neuromuscular,16,610,2701,1462481,13.865,14.202,8.633,23.364,177.616,3.313,2.471,True,True,True,True,main
+pembrolizumab,Neuromuscular,254,15834,2463,1447257,9.293,9.426,8.276,10.736,1699.56,3.069,2.862,True,True,True,True,main
+nivolumab,Neuromuscular,79,4793,2638,1458298,8.98,9.112,7.271,11.417,537.178,3.06,2.687,True,True,True,True,main
+durvalumab,Neuromuscular,65,4847,2652,1458244,7.29,7.374,5.756,9.446,338.795,2.77,2.358,True,True,True,True,main
+atezolizumab,Neuromuscular,53,4371,2664,1458720,6.572,6.639,5.051,8.728,240.488,2.62,2.164,True,True,True,True,main
+ipilimumab,Neuromuscular,1,185,2716,1462906,2.901,2.911,0.408,20.787,0.07,0.828,-2.955,False,False,False,False,main
+other ICI combination,Pneumonitis,75,308,6581,1458844,43.605,53.979,41.891,69.556,3058.797,5.075,4.693,True,True,True,True,main
+avelumab,Pneumonitis,19,287,6637,1458865,13.71,14.552,9.141,23.165,211.707,3.367,2.597,True,True,True,True,main
+pembrolizumab,Pneumonitis,820,15268,5836,1443884,12.661,13.288,12.33,14.32,7746.921,3.48,3.364,True,True,True,True,main
+cemiplimab,Pneumonitis,35,591,6621,1458561,12.373,13.046,9.269,18.363,354.326,3.409,2.845,True,True,True,True,main
+nivolumab + ipilimumab,Pneumonitis,152,2693,6504,1456459,12.017,12.639,10.715,14.91,1496.274,3.506,3.238,True,True,True,True,main
+nivolumab,Pneumonitis,252,4620,6404,1454532,11.8,12.389,10.888,14.097,2397.059,3.48,3.272,True,True,True,True,main
+ipilimumab,Pneumonitis,9,177,6647,1458975,10.669,11.161,5.71,21.814,69.714,2.821,1.682,True,True,True,True,main
+atezolizumab,Pneumonitis,202,4222,6454,1454930,10.339,10.786,9.346,12.447,1650.695,3.298,3.065,True,True,True,True,main
+durvalumab,Pneumonitis,181,4731,6475,1454421,8.314,8.594,7.393,9.989,1130.908,2.993,2.747,True,True,True,True,main
+other ICI combination,Thyroid,39,344,4229,1461196,35.285,39.172,28.09,54.626,1257.258,4.612,4.079,True,True,True,True,main
+nivolumab + ipilimumab,Thyroid,172,2673,4096,1458867,21.593,22.918,19.585,26.82,3231.522,4.296,4.043,True,True,True,True,main
+atezolizumab,Thyroid,218,4206,4050,1457334,17.781,18.651,16.221,21.445,3269.693,4.029,3.805,True,True,True,True,main
+pembrolizumab,Thyroid,703,15385,3565,1446155,17.77,18.536,17.069,20.129,9305.992,3.893,3.769,True,True,True,True,main
+nivolumab,Thyroid,200,4672,4068,1456868,14.743,15.331,13.264,17.72,2435.987,3.771,3.537,True,True,True,True,main
+cemiplimab,Thyroid,21,605,4247,1460935,11.573,11.94,7.72,18.468,192.025,3.21,2.479,True,True,True,True,main
+durvalumab,Thyroid,101,4811,4167,1456729,7.209,7.339,6.012,8.959,522.769,2.778,2.448,True,True,True,True,main
+avelumab,Thyroid,5,301,4263,1461239,5.617,5.694,2.352,13.787,14.664,1.983,0.421,True,True,True,True,main
+ipilimumab,Thyroid,0,186,4268,1461354,0.0,0.0,0.0,,0.003,-1.059,-11.383,False,False,False,False,main
+nivolumab + ipilimumab,Type 1 diabetes,115,2730,1999,1460964,29.583,30.787,25.417,37.291,2980.398,4.649,4.34,True,True,True,True,main
+nivolumab,Type 1 diabetes,112,4760,2002,1458934,16.776,17.147,14.145,20.785,1560.811,3.902,3.589,True,True,True,True,main
+other ICI combination,Type 1 diabetes,7,376,2107,1463318,12.712,12.93,6.114,27.342,64.151,2.833,1.531,True,True,True,True,main
+pembrolizumab,Type 1 diabetes,220,15868,1894,1447826,10.467,10.598,9.209,12.197,1681.591,3.218,2.995,True,True,True,True,main
+atezolizumab,Type 1 diabetes,45,4379,2069,1459315,7.185,7.248,5.387,9.753,228.768,2.725,2.23,True,True,True,True,main
+cemiplimab,Type 1 diabetes,5,621,2109,1463073,5.549,5.586,2.314,13.481,14.359,1.971,0.409,True,True,True,True,main
+durvalumab,Type 1 diabetes,30,4882,2084,1458812,4.281,4.302,2.997,6.175,71.27,2.008,1.398,True,True,True,True,main
+ipilimumab,Type 1 diabetes,1,185,2113,1463509,3.729,3.744,0.524,26.733,0.201,0.965,-2.818,False,False,False,False,main
+avelumab,Type 1 diabetes,1,305,2113,1463389,2.267,2.271,0.319,16.18,0.008,0.672,-3.111,False,False,False,False,main
